@@ -1,0 +1,10 @@
+C:\Users\ulise\source\repos\Graf_Rutas\bin\Debug\Graf_Rutas.exe.config
+C:\Users\ulise\source\repos\Graf_Rutas\bin\Debug\Graf_Rutas.exe
+C:\Users\ulise\source\repos\Graf_Rutas\bin\Debug\Graf_Rutas.pdb
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.Properties.Resources.resources
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.csproj.GenerateResource.cache
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.exe
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.pdb
+C:\Users\ulise\source\repos\Graf_Rutas\obj\Debug\Graf_Rutas.Form1.resources
